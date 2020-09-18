@@ -21,3 +21,6 @@ input.addEventListener('keydown', function(e) {
     console.log(e.key)
   }
 });
+
+let divs = document.querySelectorAll('div');
+
